@@ -59,12 +59,3 @@ The Power BI dashboard includes the following visual insights:
 1. Open the `.pbix` file in Power BI Desktop.  
 2. Connect to the provided dataset (CSV/Excel).  
 3. Interact with filters and slicers to explore different insights.
-
----
-
-## 📈 Future Improvements
-- Add trend analysis over time (if historical data is available).  
-- Include more advanced salary breakdown (by country, industry, and education).  
-- Enhance visual storytelling with drill-through reports.  
-
----
